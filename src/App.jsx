@@ -1,10 +1,9 @@
 
-import First from './componants/First'
-
+import Second from './componants/Second'
 function App() {
 
   return (
-    <First />
+    <Second />
   )
 }
 
